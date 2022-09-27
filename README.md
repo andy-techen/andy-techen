@@ -5,3 +5,5 @@ I am...
 - An Information Science graduate student at the University of Michigan 🎓
 - Born and raised in Taipei, Taiwan 🇹🇼
 - Aspiring to ignite social impact by building data-driven products 🌎
+
+Learn more about me [here](https://github.com/andy-techen/portfolio)!
