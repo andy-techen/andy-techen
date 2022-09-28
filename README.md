@@ -120,7 +120,9 @@
 </p>
 
 ### 👦🏻 A Bit More About Me
+<!--
 - 🏫 Naturally gravitate towards responsibilities. Contributed to 5 summer/winter camps, 2 [live performances](https://www.facebook.com/2018.ibnight), and numerous seminars (read more [here](https://andy27479.wixsite.com/portfolio/leadership)) in my first two years of college
+-->
 - 🤘🏻 Play the 🎻 and 🎸, but love 🎤 above all! Been in ~20 live performances/competitions
 - 🏀 Diehard NBA and basketball fan (albeit mediocre skills) and an over-the-hill swimmer 🏊🏻‍♂️
 - 🛩 Been to 🇹🇼🇺🇸🇨🇦🇬🇧🇩🇪🇳🇱🇮🇹🇨🇭🇨🇳🇹🇭🇰🇷🇯🇵🇱🇦🇲🇾🇸🇬🇮🇩🇵🇼
