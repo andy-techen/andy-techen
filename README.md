@@ -15,7 +15,7 @@
 - 🇹🇼 Born and raised in Taipei, Taiwan
 - 🌎 Aspiring to ignite social impact by building data-driven products
 
-## 👨🏻‍💻 Stuff I've Created
+### 👨🏻‍💻 Stuff I've Created
 <!--
 <section>
     <div>
@@ -42,7 +42,7 @@
 
 </section>
 -->
-## ✌🏻 Stuff I Like
+### ✌🏻 Stuff I Like
 #### 📚 Expertise
 <p>
     <img alt="Business Analytics" src="https://img.shields.io/badge/Business%20Analytics-FF9900">
@@ -119,7 +119,7 @@
     <img alt="Psychology" src="https://img.shields.io/badge/Psychology-ffd700">
 </p>
 
-## 👦🏻 A Bit More About Me
+### 👦🏻 A Bit More About Me
 - 🏫 Naturally gravitate towards responsibilities. Contributed to 5 summer/winter camps, 2 [live performances](https://www.facebook.com/2018.ibnight), and numerous seminars (read more [here](https://andy27479.wixsite.com/portfolio/leadership)) in my first two years of college
 - 🤘🏻 Play the 🎻 and 🎸, but love 🎤 above all! Been in ~20 live performances/competitions
 - 🏀 Diehard NBA and basketball fan (albeit mediocre skills) and an over-the-hill swimmer 🏊🏻‍♂️
