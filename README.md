@@ -1,6 +1,6 @@
 <h2>
     This is Andy Chen!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
     <!--
     <p>
         <a href="https://www.linkedin.com/in/andy-te-hsuan-chen/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png" width="30rem"></a>
@@ -15,7 +15,7 @@
 - 🇹🇼 Born and raised in Taipei, Taiwan
 - 🌎 Aspiring to ignite social impact by building data-driven products
 
-## 💻 Stuff I've Created
+## 👨🏻‍💻 Stuff I've Created
 <!--
 <section>
     <div>
