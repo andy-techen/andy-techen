@@ -64,12 +64,17 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <!--
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+    -->
     <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoftexcel&logoColor=white">
     <img alt=Tableau src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
     <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C.svg?logo=apachespark&logoColor=white">
     <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?logo=googleanalytics&logoColor=white">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white">
+    <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/Shiny-FFFFFF?logo=shiny">
+    <!--
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
     <img alt="sklearn" src="https://img.shields.io/badge/sklearn-F7931E.svg?logo=scikitlearn&logoColor=white">
@@ -78,6 +83,7 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="ggplot2" src="https://custom-icon-badges.demolab.com/badge/ggplot2-1A162D?logo=ggplot2">
     <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/Shiny-FFFFFF?logo=shiny">
+    -->
 </p>
 
 #### 🛠 Tools for Development
@@ -94,10 +100,12 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
     <img alt="AWS S3" src="https://img.shields.io/badge/AWS%20S3-569A31.svg?logo=amazons3&logoColor=white">
     <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white">
+    <!--
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+    -->
 </p>
 
 #### 🧠 Topics
