@@ -1,11 +1,13 @@
 <h2>
     This is Andy Chen!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <!--
     <p>
         <a href="https://www.linkedin.com/in/andy-te-hsuan-chen/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png" width="30rem"></a>
         <a href="mailto:andy27479@gmail.com"><img alt="Gmail" src="images/email.png" width="30rem"></a>
         <a href="https://drive.google.com/file/d/1IZDXmhHigFrnB-wuSitgAyUxh-7_QzdN/view?usp=sharing" target="_blank"><img alt="Resume" src="images/attachment.png" width="30rem"></a>
     </p>
+    -->
 </h2>
 
 - 🧑‍💻 A data fanatic and product enthusiast currently based in Ann Arbor, MI
