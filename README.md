@@ -1,13 +1,14 @@
 <h2>
     This is Andy Chen!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <br>
+    <br>
+    <p>
+        <a href="https://www.linkedin.com/in/andy-te-hsuan-chen/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png" width="30rem"></a>
+        <a href="mailto:andy27479@gmail.com"><img alt="Gmail" src="images/email.png" width="30rem"></a>
+        <a href="https://drive.google.com/file/d/1IZDXmhHigFrnB-wuSitgAyUxh-7_QzdN/view?usp=sharing" target="_blank"><img alt="Resume" src="images/attachment.png" width="30rem"></a>
+    </p>
 </h2>
-
-<p>
-    <a href="https://www.linkedin.com/in/andy-te-hsuan-chen/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png" width="30rem"></a>
-    <a href="mailto:andy27479@gmail.com"><img alt="Gmail" src="images/email.png" width="30rem"></a>
-    <a href="https://drive.google.com/file/d/1IZDXmhHigFrnB-wuSitgAyUxh-7_QzdN/view?usp=sharing" target="_blank"><img alt="Resume" src="images/attachment.png" width="30rem"></a>
-</p>
 
 - 🧑‍💻 A data fanatic and product enthusiast currently based in Ann Arbor, MI
 - 🎓 An Information Science graduate student at the University of Michigan
@@ -42,7 +43,7 @@
 </section>
 -->
 ## ✌🏻 Stuff I Like
-### 📚 Expertise
+#### 📚 Expertise
 <p>
     <img alt="Business Analytics" src="https://img.shields.io/badge/Business%20Analytics-FF9900">
     <img alt="Marketing Analytics" src="https://img.shields.io/badge/Marketing%20Analytics-FF9900">
@@ -58,7 +59,7 @@
     <img alt="User Experience" src="https://img.shields.io/badge/User%20Experience-f0e68c">
 </p>
 
-### 🧮 Tools for Data Science
+#### 🧮 Tools for Data Science
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
@@ -79,7 +80,7 @@
     <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/Shiny-FFFFFF?logo=shiny">
 </p>
 
-### 🛠 Tools for Development
+#### 🛠 Tools for Development
 <p>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
@@ -99,7 +100,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
 </p>
 
-### 🧠 Topics
+#### 🧠 Topics
 <p>
     <img alt="Educational Technology" src="https://img.shields.io/badge/Educational%20Technology-ffd700">
     <img alt="Learning Analytics" src="https://img.shields.io/badge/Learning%20Analytics-ffd700">
