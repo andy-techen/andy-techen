@@ -1,7 +1,13 @@
-<h2 align="center">
+<h2>
     This is Andy Chen!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
+
+<p>
+    <a href="https://www.linkedin.com/in/andy-te-hsuan-chen/" target="_blank"><img alt="LinkedIn" src="images/linkedin.png" width="30rem"></a>
+    <a href="mailto:andy27479@gmail.com"><img alt="Gmail" src="images/email.png" width="30rem"></a>
+    <a href="https://drive.google.com/file/d/1IZDXmhHigFrnB-wuSitgAyUxh-7_QzdN/view?usp=sharing" target="_blank"><img alt="Resume" src="images/attachment.png" width="30rem"></a>
+</p>
 
 - 🧑‍💻 A data fanatic and product enthusiast currently based in Ann Arbor, MI
 - 🎓 An Information Science graduate student at the University of Michigan
@@ -9,6 +15,7 @@
 - 🌎 Aspiring to ignite social impact by building data-driven products
 
 ## 💻 Stuff I've Created
+<!--
 <section>
     <div>
         <h4><a href="https://github.com/andy-techen/better-social-media">Better Social Media</a></h4>
@@ -33,22 +40,22 @@
     </div>
 
 </section>
-
+-->
 ## ✌🏻 Stuff I Like
 ### 📚 Expertise
 <p>
-    <img alt="Business Analytics" src="https://custom-icon-badges.demolab.com/badge/Business%20Analytics-FF9900">
-    <img alt="Marketing Analytics" src="https://custom-icon-badges.demolab.com/badge/Marketing%20Analytics-FF9900">
-    <img alt="Data Mining" src="https://custom-icon-badges.demolab.com/badge/Data%20Mining-FF9900">
-    <img alt="Data Visualization" src="https://custom-icon-badges.demolab.com/badge/Data%20Visualization-FF9900">
-    <img alt="Product Analytics" src="https://custom-icon-badges.demolab.com/badge/Product%20Analytics-ffd700">
-    <img alt="Machine Learning" src="https://custom-icon-badges.demolab.com/badge/Machine%20Learning-ffd700">
-    <img alt="Statistical Inference" src="https://custom-icon-badges.demolab.com/badge/Statistical%20Inference-ffd700">
-    <img alt="Data Management" src="https://custom-icon-badges.demolab.com/badge/Data%20Management-ffd700">
-    <img alt="Product Management" src="https://custom-icon-badges.demolab.com/badge/Product%20Management-f0e68c">
-    <img alt="NLP" src="https://custom-icon-badges.demolab.com/badge/NLP-f0e68c">
-    <img alt="Frontend Development" src="https://custom-icon-badges.demolab.com/badge/Frontend%20Development-f0e68c">
-    <img alt="User Experience" src="https://custom-icon-badges.demolab.com/badge/User%20Experience-f0e68c">
+    <img alt="Business Analytics" src="https://img.shields.io/badge/Business%20Analytics-FF9900">
+    <img alt="Marketing Analytics" src="https://img.shields.io/badge/Marketing%20Analytics-FF9900">
+    <img alt="Data Mining" src="https://img.shields.io/badge/Data%20Mining-FF9900">
+    <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-FF9900">
+    <img alt="Product Analytics" src="https://img.shields.io/badge/Product%20Analytics-ffd700">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-ffd700">
+    <img alt="Statistical Inference" src="https://img.shields.io/badge/Statistical%20Inference-ffd700">
+    <img alt="Data Management" src="https://img.shields.io/badge/Data%20Management-ffd700">
+    <img alt="Product Management" src="https://img.shields.io/badge/Product%20Management-f0e68c">
+    <img alt="NLP" src="https://img.shields.io/badge/NLP-f0e68c">
+    <img alt="Frontend Development" src="https://img.shields.io/badge/Frontend%20Development-f0e68c">
+    <img alt="User Experience" src="https://img.shields.io/badge/User%20Experience-f0e68c">
 </p>
 
 ### 🧮 Tools for Data Science
@@ -56,6 +63,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
     <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
     <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoftexcel&logoColor=white">
     <img alt=Tableau src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
     <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C.svg?logo=apachespark&logoColor=white">
@@ -92,13 +101,13 @@
 
 ### 🧠 Topics
 <p>
-    <img alt="EdTech" src="https://custom-icon-badges.demolab.com/badge/EdTech-ffd700">
-    <img alt="Learning Analytics" src="https://custom-icon-badges.demolab.com/badge/Learning%20Analytics-ffd700">
-    <img alt="Social Media" src="https://custom-icon-badges.demolab.com/badge/Social%20Media-ffd700">
-    <img alt="Social Computing" src="https://custom-icon-badges.demolab.com/badge/Social%20Computing-ffd700">
-    <img alt="Data Products" src="https://custom-icon-badges.demolab.com/badge/Data%20Products-ffd700">
-    <img alt="Entrepreneurship" src="https://custom-icon-badges.demolab.com/badge/Entrepreneurship-ffd700">
-    <img alt="Psychology" src="https://custom-icon-badges.demolab.com/badge/Psychology-ffd700">
+    <img alt="Educational Technology" src="https://img.shields.io/badge/Educational%20Technology-ffd700">
+    <img alt="Learning Analytics" src="https://img.shields.io/badge/Learning%20Analytics-ffd700">
+    <img alt="Social Media" src="https://img.shields.io/badge/Social%20Media-ffd700">
+    <img alt="Social Computing" src="https://img.shields.io/badge/Social%20Computing-ffd700">
+    <img alt="Data Products" src="https://img.shields.io/badge/Data%20Products-ffd700">
+    <img alt="Entrepreneurship" src="https://img.shields.io/badge/Entrepreneurship-ffd700">
+    <img alt="Psychology" src="https://img.shields.io/badge/Psychology-ffd700">
 </p>
 
 ## 👦🏻 A Bit More About Me
