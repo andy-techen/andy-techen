@@ -16,32 +16,15 @@
 - 🌎 Aspiring to ignite social impact by building data-driven products
 
 ### 👨🏻‍💻 Stuff I've Created
-<!--
-<section>
-    <div>
-        <h4><a href="https://github.com/andy-techen/better-social-media">Better Social Media</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/pace">Pace</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/github-trends">GitHub Trends</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/twitter-sentiment">Twitter Sentiment</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/java-ucb/tree/main/project">FoodMood</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/nba-shiny-dashboard">NBA Fantasy Tracker</a></h4>
-    </div>
-    <div>
-        <h4><a href="https://github.com/andy-techen/red-lake-county">Red Lake County Viz</a></h4>
-    </div>
+<p align="left"> 
+    <a href="https://github.com/techen/better-social-media"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
+    <a href="https://github.com/techen/pace"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
+    <a href="https://github.com/techen/github-trends"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
+    <a href="https://github.com/techen/twitter-sentiment"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
+    <a href="https://github.com/techen/red-lake-county"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=red-lake-county&theme=ayu-mirage&hide_border=true" alt="red-lake-county"></a>
+    <a href="https://github.com/techen/nba-shiny-dashboard"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
+</p>
 
-</section>
--->
 ### ✌🏻 Stuff I Like
 #### 📚 Expertise
 <p>
