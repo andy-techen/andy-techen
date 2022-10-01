@@ -17,12 +17,12 @@
 
 ### 👨🏻‍💻 Stuff I've Created
 <p align="left"> 
-    <a href="https://github.com/techen/better-social-media"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
-    <a href="https://github.com/techen/pace"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
-    <a href="https://github.com/techen/github-trends"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
-    <a href="https://github.com/techen/twitter-sentiment"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
-    <a href="https://github.com/techen/red-lake-county"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=red-lake-county&theme=ayu-mirage&hide_border=true" alt="red-lake-county"></a>
-    <a href="https://github.com/techen/nba-shiny-dashboard"><img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
+    <a href="https://github.com/techen/better-social-media"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
+    <a href="https://github.com/techen/pace"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
+    <a href="https://github.com/techen/github-trends"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
+    <a href="https://github.com/techen/twitter-sentiment"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
+    <a href="https://github.com/techen/red-lake-county"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=red-lake-county&theme=ayu-mirage&hide_border=true" alt="red-lake-county"></a>
+    <a href="https://github.com/techen/nba-shiny-dashboard"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
 </p>
 
 ### ✌🏻 Stuff I Like
