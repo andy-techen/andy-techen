@@ -108,5 +108,5 @@
 -->
 - 🤘🏻 Play the 🎻 and 🎸, but love 🎤 above all! Been in ~20 live performances/competitions
 - 🏀 Diehard NBA and basketball fan (albeit mediocre skills) and an over-the-hill swimmer 🏊🏻‍♂️
-- 🛩 Been to 🇹🇼🇺🇸🇨🇦🇬🇧🇩🇪🇳🇱🇮🇹🇨🇭🇨🇳🇹🇭🇰🇷🇯🇵🇱🇦🇲🇾🇸🇬🇮🇩🇵🇼
+- 🛩 Been to 🇹🇼🇺🇸🇨🇦🇬🇧🇩🇪🇳🇱🇮🇹🇨🇭🇨🇳🇹🇭🇰🇷🇯🇵🇱🇦🇲🇾🇸🇬🇮🇩🇵🇼🇪🇸
 - 💭 Dream of opening a school and a live music cafe to spread knowledge and happiness
