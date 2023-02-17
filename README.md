@@ -13,7 +13,7 @@
 - 🧑‍💻 A data fanatic and product enthusiast currently based in Ann Arbor, MI
 - 🎓 An Information Science graduate student at the University of Michigan
 - 🇹🇼 An INFJ dreamer born and raised in Taipei, Taiwan
-- 🌎 Aspiring to ignite social impact by building data-driven products alongside fellow dreamers
+- 🌎 Igniting social impact by building data-driven products alongside fellow dreamers
 
 ### 👨🏻‍💻 Stuff I've Created
 <p align="left"> 
