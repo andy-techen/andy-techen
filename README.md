@@ -32,10 +32,13 @@
     <img alt="Marketing Analytics" src="https://img.shields.io/badge/Marketing%20Analytics-FF9900">
     <img alt="Data Mining" src="https://img.shields.io/badge/Data%20Mining-FF9900">
     <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20Visualization-FF9900">
+    <img alt="Dashboarding" src="https://img.shields.io/badge/Dashboarding-FF9900">
     <img alt="Product Analytics" src="https://img.shields.io/badge/Product%20Analytics-ffd700">
     <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-ffd700">
     <img alt="Statistical Inference" src="https://img.shields.io/badge/Statistical%20Inference-ffd700">
     <img alt="Data Management" src="https://img.shields.io/badge/Data%20Management-ffd700">
+    <img alt="Cloud Computing" src="https://img.shields.io/badge/Cloud%20Computing-f0e68c">
+    <img alt="ETL" src="https://img.shields.io/badge/ETL-f0e68c">
     <img alt="Product Management" src="https://img.shields.io/badge/Product%20Management-f0e68c">
     <img alt="NLP" src="https://img.shields.io/badge/NLP-f0e68c">
     <img alt="Frontend Development" src="https://img.shields.io/badge/Frontend%20Development-f0e68c">
@@ -57,15 +60,13 @@
     <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?logo=googleanalytics&logoColor=white">
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white">
     <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/Shiny-FFFFFF?logo=shiny">
-    <!--
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
     <img alt="sklearn" src="https://img.shields.io/badge/sklearn-F7931E.svg?logo=scikitlearn&logoColor=white">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white">
+    <!--
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="ggplot2" src="https://custom-icon-badges.demolab.com/badge/ggplot2-1A162D?logo=ggplot2">
-    <img alt="Shiny" src="https://custom-icon-badges.demolab.com/badge/Shiny-FFFFFF?logo=shiny">
     -->
 </p>
 
@@ -85,11 +86,11 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white">
     <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
     <!--
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
     -->
 </p>
 
