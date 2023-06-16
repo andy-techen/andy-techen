@@ -10,7 +10,7 @@
     -->
 </h2>
 
-- 🧑‍💻 A data fanatic and product enthusiast currently based in Ann Arbor, MI
+- 🧑‍💻 A data fanatic and product enthusiast currently based in Austin, TX
 - 🎓 An Information Science graduate student at the University of Michigan
 - 🇹🇼 An INFJ dreamer born and raised in Taipei, Taiwan
 - 🌎 Igniting social impact by building data-driven products alongside fellow dreamers
