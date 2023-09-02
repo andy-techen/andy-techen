@@ -17,12 +17,12 @@
 
 ### 👨🏻‍💻 Stuff I've Created
 <p align="left"> 
-    <a href="https://github.com/andy-techen/ExploreU"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=ExploreU&theme=ayu-mirage&hide_border=true" alt="ExploreU"></a>
-    <a href="https://github.com/andy-techen/better-social-media"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
-    <a href="https://github.com/andy-techen/pace"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
-    <a href="https://github.com/andy-techen/github-trends"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
-    <a href="https://github.com/andy-techen/twitter-sentiment"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
-    <a href="https://github.com/andy-techen/nba-shiny-dashboard"><img width="320" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
+    <a href="https://github.com/andy-techen/ExploreU"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=ExploreU&theme=ayu-mirage&hide_border=true" alt="ExploreU"></a>
+    <a href="https://github.com/andy-techen/better-social-media"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
+    <a href="https://github.com/andy-techen/pace"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
+    <a href="https://github.com/andy-techen/github-trends"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
+    <a href="https://github.com/andy-techen/twitter-sentiment"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
+    <a href="https://github.com/andy-techen/nba-shiny-dashboard"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
 </p>
 
 ### ✌🏻 Stuff I Like
@@ -41,7 +41,7 @@
     <img alt="ETL" src="https://img.shields.io/badge/ETL-f0e68c">
     <img alt="Product Management" src="https://img.shields.io/badge/Product%20Management-f0e68c">
     <img alt="NLP" src="https://img.shields.io/badge/NLP-f0e68c">
-    <img alt="Frontend Development" src="https://img.shields.io/badge/Frontend%20Development-f0e68c">
+    <img alt="Web Development" src="https://img.shields.io/badge/Frontend%20Development-f0e68c">
     <img alt="User Experience" src="https://img.shields.io/badge/User%20Experience-f0e68c">
 </p>
 
