@@ -38,11 +38,11 @@
     <img alt="ETL" src="https://img.shields.io/badge/ETL-ffd700">
     <img alt="Statistical Inference" src="https://img.shields.io/badge/Statistical%20Inference-ffd700">
     <img alt="Data Management" src="https://img.shields.io/badge/Data%20Management-ffd700">
-    <img alt="Backend Development" src="https://img.shields.io/badge/Backend%20Development-ffd700">
+    <img alt="Backend Dev" src="https://img.shields.io/badge/Backend%20Dev-ffd700">
     <img alt="Cloud Computing" src="https://img.shields.io/badge/Cloud%20Computing-f0e68c">
     <img alt="Product Management" src="https://img.shields.io/badge/Product%20Management-f0e68c">
     <img alt="NLP" src="https://img.shields.io/badge/NLP-f0e68c">
-    <img alt="Frontend Development" src="https://img.shields.io/badge/Frontend%20Development-f0e68c">
+    <img alt="Frontend Dev" src="https://img.shields.io/badge/Frontend%20Dev-f0e68c">
     <img alt="User Experience" src="https://img.shields.io/badge/User%20Experience-f0e68c">
 </p>
 
