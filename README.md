@@ -10,7 +10,7 @@
     -->
 </h2>
 
-- 🧑‍💻 A data fanatic and product enthusiast currently based in Arlington, VA
+- 🧑‍💻 A data fanatic and product enthusiast currently based in Fairfax, VA
 - 🎓 Graduated from the University of Michigan with an MS in Information Science
 - 🇹🇼 An INFJ dreamer born and raised in Taipei, Taiwan
 - 🌎 Igniting social impact by building data-driven products alongside fellow dreamers
