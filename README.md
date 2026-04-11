@@ -15,16 +15,6 @@
 - 🇹🇼 An INFJ dreamer born and raised in Taipei, Taiwan
 - 🌎 Igniting social impact by building data-driven products alongside fellow dreamers
 
-### 👨🏻‍💻 Stuff I've Created
-<p align="left"> 
-    <a href="https://github.com/andy-techen/ExploreU"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=ExploreU&theme=ayu-mirage&hide_border=true" alt="ExploreU"></a>
-    <a href="https://github.com/andy-techen/better-social-media"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=better-social-media&theme=ayu-mirage&hide_border=true" alt="better-social-media"></a>
-    <a href="https://github.com/andy-techen/pace"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=pace&theme=ayu-mirage&hide_border=true" alt="pace"></a>
-    <a href="https://github.com/andy-techen/github-trends"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=github-trends&theme=ayu-mirage&hide_border=true" alt="github-trends"></a>
-    <a href="https://github.com/andy-techen/twitter-sentiment"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=twitter-sentiment&theme=ayu-mirage&hide_border=true" alt="twitter-sentiment"></a>
-    <a href="https://github.com/andy-techen/nba-shiny-dashboard"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=andy-techen&repo=nba-shiny-dashboard&theme=ayu-mirage&hide_border=true" alt="nba-shiny-dashboard"></a>
-</p>
-
 ### ✌🏻 Stuff I Like
 #### 📚 Expertise
 <p>
